@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dp1408
 - 👀 I’m interested in PHP & Angular
-- 🌱 I’m currently learning Laravel Framework
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 Ping me on pdeep1408@gmail.com
 
